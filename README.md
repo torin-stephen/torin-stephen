@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/tkmsmc@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:tkmsmc@gmail.com">   <a  href="https://www.instagram.com/torin_stephen/"><img src="https://img.shields.io/badge/@torin_stephen-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-### Here are some ideas to help you get started:
+### About
 
 - Currently working with React and Firebase
 - Learning more python
